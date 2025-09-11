@@ -15,8 +15,8 @@ public class ParticipanteRepository {
    public List<Participante> findAll(){
         participantes.add(new Participante(
                 new SimpleStringProperty("74057382"),
-                new SimpleStringProperty("Juan"),
-                new SimpleStringProperty("mamani"),
+                new SimpleStringProperty("RUBEN"),
+                new SimpleStringProperty("MAMANI"),
                 Carrera.SISTEMAS,
                 TipoParticipante.ASISTENTE,
                 new SimpleBooleanProperty(true)

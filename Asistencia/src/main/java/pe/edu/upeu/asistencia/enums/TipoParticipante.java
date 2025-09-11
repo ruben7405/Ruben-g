@@ -1,6 +1,5 @@
 package pe.edu.upeu.asistencia.enums;
 
-
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -9,7 +8,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @Getter
 public enum TipoParticipante {
-    ASISTENTE("asistente"),
+    ASISTENTE("Asistente"),
     ORGANIZADOR("Organizador"),
     PONENTE("Ponente"),;
 
